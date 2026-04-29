@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SulaMT
-- 👀 I’m interested in qgis and qfield
-- 🌱 I’m currently learning qgis advanced course ok 
-- 💞️ I’m looking to collaborate on best ways to apply qgis for geology..
-- 📫 How to reach me sulamt@yahoo.com
+- 👋 Hi, I’m @MT
+- 👀 I’m interested in GIS and building websites
+- 🌱 I’m currently skilling up on GIS and coding 
+- 💞️ I’m looking to collaborate on best ways to apply GIS in Geology.
+- 📫 How to reach me sulaMT@yahoo.com
 
 <!---
 SulaMT/SulaMT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
